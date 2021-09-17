@@ -3,7 +3,7 @@ module.exports = {
     // edit below
     title: `Brown Thoughts`,
     author: `Nayela`,
-    description: `A personal blog with styled components, dark mode, and Netlify CMS.`,
+    description: `A personal blog  race and identity in the UK.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
       twitter: `nayelawick`,
