@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `Brown Thoughts`,
+    title: `naywick`,
     author: `Nayela`,
-    description: `A personal blog  race and identity in the UK.`,
+    description: `Thoughts on tech, race and identity.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
       twitter: `nayelawick`,

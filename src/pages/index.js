@@ -7,7 +7,7 @@ import Button from "../components/button"
 
 class IndexPage extends React.Component {
   render() {
-    const siteTitle = "Gatsby Starter Personal Website"
+    const siteTitle = "Nayela Wickramasuriya - software developer, writer"
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
@@ -15,19 +15,19 @@ class IndexPage extends React.Component {
           title="Home"
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
-        <img style={{ margin: 0 }} src="./GatsbyScene.svg" alt="Gatsby Scene" />
         <h1>
-          Hey people{" "}
+          Hi friends{" "}
           <span role="img" aria-label="wave emoji">
             👋
           </span>
         </h1>
-        <p>Welcome to your new Gatsby website. You are on your home page.</p>
+        <p>Welcome to my website.</p>
         <p>
-          This starter comes out of the box with styled components and Gatsby's
-          default starter blog running on Netlify CMS.
+          I am a software developer working primarily in Ruby on Rails, though I also dabble in some JavaScript/TypeScript. I'm proud to work at <a href="https://www.patchwork.health/">Patchwork Health</a> helping the NHS.
         </p>
-        <p>Now go build something great!</p>
+        <p>
+          I also write and was shortlisted for the <a href="https://bricklanebookshop.org/2021-short-story-prize/">Brick Lane Bookshop Short Story Prize</a>. When I am not writing code, I write regular words and am currently working on a novel about two women from my native Sri Lanka.
+        </p>
         <Link to="/blog/">
           <Button marginTop="35px">Go to Blog</Button>
         </Link>
