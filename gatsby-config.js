@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     // edit below
-    title: `naywick`,
+    title: `Nayela Wickramasuriya`,
     author: `Nayela`,
     description: `Thoughts on tech, race and identity.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
